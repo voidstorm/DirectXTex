@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\Texconv\texconv.cpp">
+      <Filter>texconv</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\Texconv\ExtendedBMP.cpp">
+      <Filter>texconv</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\Texconv\PortablePixMap.cpp">
+      <Filter>texconv</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeLists.txt">
+      <Filter>DirectXTex</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\stuff\code\schnarzcode\DirectXTex\Texconv\Texconv.rc">
+      <Filter>texconv</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DirectXTex">
+      <UniqueIdentifier>{9671885E-6789-3AEA-9434-6D29873AA642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="texconv">
+      <UniqueIdentifier>{8992B755-81BF-3A7A-9B08-E0F461DB2AAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

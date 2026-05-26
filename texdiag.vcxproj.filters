@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\Texdiag\texdiag.cpp">
+      <Filter>texdiag</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeLists.txt">
+      <Filter>DirectXTex</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\stuff\code\schnarzcode\DirectXTex\Texdiag\texdiag.rc">
+      <Filter>texdiag</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DirectXTex">
+      <UniqueIdentifier>{9671885E-6789-3AEA-9434-6D29873AA642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="texdiag">
+      <UniqueIdentifier>{72015047-06A1-396B-8C93-E19D6E810B40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

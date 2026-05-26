@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeFiles\53aaa09ecf1c83793c0d1da5595b22fa\NightlyMemoryCheck.rule">
+      <Filter>DirectXTex</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeLists.txt">
+      <Filter>DirectXTex</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeFiles\NightlyMemoryCheck">
+      <Filter>DirectXTex</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DirectXTex">
+      <UniqueIdentifier>{9671885E-6789-3AEA-9434-6D29873AA642}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

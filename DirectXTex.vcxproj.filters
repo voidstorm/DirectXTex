@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeFiles\DirectXTex.dir\cmake_pch.cxx">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\BC.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\BC4BC5.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\BC6HBC7.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexCompress.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexConvert.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexDDS.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexHDR.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexImage.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexMipmaps.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexMisc.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexNormalMaps.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexPMAlpha.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexResize.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexTGA.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexUtil.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexFlipRotate.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexWIC.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\BCDirectCompute.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexCompressGPU.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexD3D11.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexD3D12.cpp">
+      <Filter>DirectXTex</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\BC.h">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DDS.h">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTexP.h">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\filters.h">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\scoped.h">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\BCDirectCompute.h">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\d3dx12.h">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTex.h">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\DirectXTex.inl">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeFiles\DirectXTex.dir\Debug\cmake_pch.hxx">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeFiles\DirectXTex.dir\Release\cmake_pch.hxx">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeFiles\DirectXTex.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeFiles\DirectXTex.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>DirectXTex</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\stuff\code\schnarzcode\DirectXTex\DirectXTex\Shaders\CompileShaders.cmd">
+      <Filter>DirectXTex</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\stuff\code\schnarzcode\DirectXTex\CMakeLists.txt">
+      <Filter>DirectXTex</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\stuff\code\schnarzcode\DirectXTex\Shaders\Compiled\BC6HEncode_EncodeBlockCS.inc">
+      <Filter>DirectXTex</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DirectXTex">
+      <UniqueIdentifier>{9671885E-6789-3AEA-9434-6D29873AA642}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
